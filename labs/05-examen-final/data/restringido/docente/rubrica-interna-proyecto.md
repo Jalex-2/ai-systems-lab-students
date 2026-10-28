@@ -18,6 +18,6 @@ Nivel de acceso: docente. No compartir con estudiantes.
 - Si el repositorio contiene una API key o un archivo .env, se descuentan 1.0 puntos de la nota
   del proyecto.
 - Señales de copia entre grupos: prompts idénticos, mismos nombres de variables poco comunes o la
-  misma frase de verificación de otro grupo. En ese caso se cita a sustentación adicional.
+  el nombre de un integrante de otro grupo en el system prompt. En ese caso se cita a sustentación adicional.
 - La nota mínima de la sustentación para aprobar el proyecto es 3.0, independientemente del resto
   de criterios.
